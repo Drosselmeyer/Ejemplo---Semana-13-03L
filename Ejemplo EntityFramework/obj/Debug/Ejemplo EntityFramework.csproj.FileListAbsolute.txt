@@ -1,0 +1,60 @@
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Ejemplo EntityFramework.dll.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Ejemplo EntityFramework.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Ejemplo EntityFramework.pdb
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\csc.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\csc.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\csc.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\csi.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\csi.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.AppContext.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\vbc.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\vbc.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\vbc.rsp
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Antlr3.Runtime.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Newtonsoft.Json.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Helpers.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Mvc.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Optimization.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Razor.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\WebGrease.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Helpers.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Mvc.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Optimization.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.Razor.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Newtonsoft.Json.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Antlr3.Runtime.pdb
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\obj\Debug\Ejemplo EntityFramework.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\obj\Debug\Ejemplo EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\obj\Debug\Ejemplo EntityFramework.csproj.CopyComplete
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\obj\Debug\Ejemplo EntityFramework.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\obj\Debug\Ejemplo EntityFramework.pdb
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\EntityFramework.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\EntityFramework.SqlServer.dll
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\EntityFramework.xml
+C:\Users\Jonas\source\repos\Ejemplo - Semana 13 03L\Ejemplo EntityFramework\bin\EntityFramework.SqlServer.xml
